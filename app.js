@@ -46,7 +46,7 @@ app.use(helmet({
 
 // ── CORS — strict allowlist only (handles all routes including sub-apps) ─────
 const allowedOrigins = [
-'https://justice-junction-app.vercel.app',
+'https://new-justice-junction.vercel.app',
 'https://jj-fixed.vercel.app',
 'http://localhost:3000',
 'http://localhost:3001',
