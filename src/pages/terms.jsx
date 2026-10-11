@@ -81,7 +81,7 @@ export default function Terms() {
         </Section>
 
         <Section title="11. Contact Us" isLast={true}>
-          For any questions about these Terms, please contact us via our <Link to="/contact" style={{ color: '#7B1D2E', fontWeight: 600, textDecoration: 'underline' }}>Contact page</Link> or WhatsApp at +91 9188371233.
+          For any questions about these Terms, please contact us via our <Link to="/contact" style={{ color: '#7B1D2E', fontWeight: 600, textDecoration: 'underline' }}>Contact page</Link> or WhatsApp at +91 918077881662.
         </Section>
       </div>
     </div>
